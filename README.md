@@ -1,7 +1,7 @@
 # Discord Archiver
 
 
-This is a discord bot that can turn whole servers into a .json file and back. When running, a file called "access_token", without any extensions, need to be put in the same folder as main&#46;py, as with the rest of the files.
+This is a discord bot that can turn whole servers into a .json file and back. Be sure to put your bots token in the "access_token" file before running.
 
 **NOTE**: This bot requires admin priviliges to function. If the bot gets added without it, it will automatically leave the server.
 
